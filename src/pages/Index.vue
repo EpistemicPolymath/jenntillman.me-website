@@ -5,7 +5,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- Top Background Image Wrapper -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');"> 
+<div class="bgded overlay" style="background-image:url('../assets/images/demo/backgrounds/01.png');"> 
   <!-- ################################################################################################ -->
   <div class="wrapper row0">
     <div id="topbar" class="hoc clear"> 
@@ -154,7 +154,7 @@
           </li>
         </ul>
       </figure>
-      <div class="one_half"><a class="imgover" href="#"><img class="borderedbox inspace-10" src="images/demo/480x300.png" alt=""></a></div>
+      <div class="one_half"><a class="imgover" href="#"><img class="borderedbox inspace-10" src="../assets/images/demo/480x300.png" alt=""></a></div>
       <!-- ################################################################################################ -->
     </div>
   </section>
@@ -171,22 +171,22 @@
     </div>
     <ul class="nospace group team sd-third">
       <li class="one_quarter first">
-        <figure><a class="imgover" href="#"><img src="images/demo/348x400.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="../assets/images/demo/348x400.png" alt=""></a>
           <figcaption><strong>A. Doe</strong> <em>Consectetuer neque dui</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><a class="imgover" href="#"><img src="images/demo/348x400.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="../assets/images/demo/348x400.png" alt=""></a>
           <figcaption><strong>B. Doe</strong> <em>Eros vivamus malesuada</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><a class="imgover" href="#"><img src="images/demo/348x400.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="../assets/images/demo/348x400.png" alt=""></a>
           <figcaption><strong>C. Doe</strong> <em>Aliquam malesuada rutrum</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><a class="imgover" href="#"><img src="images/demo/348x400.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="../assets/images/demo/348x400.png" alt=""></a>
           <figcaption><strong>D. Doe</strong> <em>Augue quisque consectetuer</em></figcaption>
         </figure>
       </li>
@@ -197,7 +197,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
+<div class="bgded overlay" style="background-image:url('../assets/images/demo/backgrounds/01.png');">
   <section id="testimonials" class="hoc container clear"> 
     <!-- ################################################################################################ -->
     <div class="sectiontitle">
@@ -205,7 +205,7 @@
       <h6 class="heading font-x2">Sociosqu ad litora torquent per</h6>
     </div>
     <article class="one_half first">
-      <figure class="clear"><img src="images/demo/100x100.png" alt="">
+      <figure class="clear"><img src="../assets/images/demo/100x100.png" alt="">
         <figcaption>
           <h6 class="heading">E. Doe</h6>
           <em>Conubia nostra per inceptos</em></figcaption>
@@ -213,7 +213,7 @@
       <blockquote>Himenaeos curabitur feugiat etiam in enim sed felis interdum lobortis phasellus nec eros ut arcu sollicitudin pellentesque curabitur porta justo vitae molestie semper ligula.</blockquote>
     </article>
     <article class="one_half">
-      <figure class="clear"><img src="images/demo/100x100.png" alt="">
+      <figure class="clear"><img src="../assets/images/demo/100x100.png" alt="">
         <figcaption>
           <h6 class="heading">F. Doe</h6>
           <em>Neque euismod nisi non</em></figcaption>
@@ -243,7 +243,7 @@
               <time datetime="2045-04-06T08:15+00:00">06 Apr 2045</time>
             </li>
           </ul>
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="../assets/images/demo/348x261.png" alt=""></a>
             <figcaption>
               <p>Et sagittis ac dignissim nec metus proin nunc maecenas vel nulla vivamus mattis massa vitae</p>
               <footer><a class="btn" href="#">Read More</a></footer>
@@ -260,7 +260,7 @@
               <time datetime="2045-04-05T08:15+00:00">05 Apr 2045</time>
             </li>
           </ul>
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="../assets/images/demo/348x261.png" alt=""></a>
             <figcaption>
               <p>Sed varius fringilla dolor metus iaculis odio ac scelerisque nibh velit sagittis tellus nulla</p>
               <footer><a class="btn" href="#">Read More</a></footer>
@@ -277,7 +277,7 @@
               <time datetime="2045-04-04T08:15+00:00">04 Apr 2045</time>
             </li>
           </ul>
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="../assets/images/demo/348x261.png" alt=""></a>
             <figcaption>
               <p>Nulla facilisi integer adipiscing turpis cras quis neque at lectus tincidunt consectetuer</p>
               <footer><a class="btn" href="#">Read More</a></footer>
@@ -335,15 +335,15 @@
         <div class="one_quarter">
           <h6 class="heading">Aenean diam euismod</h6>
           <ul class="nospace clear latestimg">
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-            <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="../assets/images/demo/100x100.png" alt=""></a></li>
           </ul>
         </div>
       </div>
