@@ -22,12 +22,12 @@
     <header id="header" class="hoc clear">
       <div id="logo" class="fl_left"> 
         <!-- ################################################################################################ -->
-        <h1><a href="index.html">An Epistemic Polymath</a></h1>
+        <h1 ml-50><a href="index.html">An Epistemic Polymath</a></h1>
         <!-- ################################################################################################ -->
       </div>
       <nav id="mainav" class="fl_right"> 
         <!-- ################################################################################################ -->
-        <ul class="clear">
+        <!-- <ul class="clear">
           <li class="active"><a href="index.html">Home</a></li>
           <li><a class="drop" href="#">Pages</a>
             <ul>
@@ -55,7 +55,7 @@
           <li><a href="#">Link Text</a></li>
           <li><a href="#">Link Text</a></li>
           <li><a href="#">Link Text</a></li>
-        </ul>
+        </ul> -->
         <!-- ################################################################################################ -->
       </nav>
     </header>
